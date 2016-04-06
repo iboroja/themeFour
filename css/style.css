@@ -1,0 +1,167 @@
+/*
+                          ThemeFour
+
+    Author: Igor Boroja
+    Licence: Feel Free to use in commercial and non-commercial projects.
+    Images: https://pixabay.com         https://pixabay.com/en/service/faq/
+	Framework: Bootstrap
+	Icons: https://fortawesome.github.io/Font-Awesome/
+*/
+
+body{
+	background: #F2F2F2;
+	font-weight: 300;
+	color: #666;
+}
+.container{
+	width:65%;
+}
+
+/*
+************************
+		profile
+************************
+*/
+.profileBackground{
+	height: 600px;
+	background-size: cover;
+    border: 0 none;
+    display: table;
+    margin-bottom: 0;
+    padding-bottom: 48px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin-top: -20px;
+}
+.profileImg{
+	height: 110px;
+	width: 110px;
+	margin-top: 8%;
+}
+.profileContainer p{
+	color: #FFFFFF;
+	font-weight: 300;
+    letter-spacing: 0.7px;
+}
+.profileContainer h3{
+	color: #FFFFFF;
+	letter-spacing: 1.5px;
+}
+/* ************** */
+.about{
+	background: #F2F2F2;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.about p{
+	letter-spacing: 0.3px;
+}
+.profileInfo{
+	background: #FFFFFF;
+	border-top: 6px solid #ffa537;
+	border-radius: 2px;
+}
+.profileInfo h4{
+	padding: 10px 0 6px 6px;
+}
+.profileInfo p{
+	padding-left: 6px; 
+}
+.work{
+	background: #FFFFFF;
+	border-top: 6px solid #e42e2f;
+	border-radius: 2px;
+}
+.work h4{
+	padding: 10px 0 6px 6px;
+}
+.work h5{
+	padding: 10px 0 6px 6px;
+	padding-bottom: 0;
+	margin-bottom: 2px;
+}
+.work p{
+	padding-left: 6px;
+	padding-bottom: 7px;
+}
+.aboutMe{
+	background: #FFFFFF;
+	border-top: 6px solid #35a8eb;
+	border-radius: 2px;
+}
+.aboutMe h4{
+	padding: 10px 0 6px 6px;
+}
+.aboutMe p{
+	padding-left: 6px;
+}
+.interests{
+	margin-top: 30px;
+	background: #FFFFFF;
+	border-top: 6px solid #85c249;
+}
+.interests h4{
+	padding: 10px 0 6px 6px;
+}
+.interests p{
+	padding-left: 6px;
+}
+.contactInfo{
+	margin-top: 30px;
+	background: #FFFFFF;
+	border-top: 6px solid #bc5668;
+}
+.contactInfo h4{
+	padding: 10px 0 6px 6px;
+}
+.contactInfo p{
+	padding-left: 6px;
+}
+.socNetw{
+	margin-top: 30px;
+	background: #FFFFFF;
+	border: 2px solid #d8d8d8;
+	border-top: 6px solid #ffb6c1;
+}
+.socNetw h4{
+	padding: 10px 0 6px 6px;
+}
+.socNetw p{
+	padding-left: 6px;
+}
+
+/*
+************************
+		footer
+************************
+*/
+
+footer{
+	background: #404040;
+	color: #a3a4a3;
+	width: 100%;
+}
+
+footer p{
+	margin-top: 12px;
+	font-size: 12px;
+	letter-spacing: 0.5px;
+}
+footer .fa{
+	font-size: 16px;
+	padding-right: 12px;
+}
+footer a {
+	color: #a3a3a3;
+	padding-right: 12px;
+
+}
+footer a:visited{
+	color: inherit;
+}
+footer a:hover{
+	color:#fff;
+}
+
+
